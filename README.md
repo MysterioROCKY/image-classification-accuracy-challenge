@@ -13,7 +13,7 @@ This repository contains implementations of CNN-based image classification model
 │   ├── MNIST_Accuracy.xlsx                        # Training & test accuracy data
 │   ├── MNIST_Accuracy_graph.png                   # Accuracy graph across epochs
 │   ├── MNIST_model_architecture.png               # Visual representation of CNN used
-│   └── mnist_code.py                              # Model code using Keras/PyTorch
+│   └── mnist_code.py                              # Model code using PyTorch
 ├── STL-10
 │   ├── ResNet18_Architecture.png                  # Architecture diagram of ResNet18
 │   ├── STL-10 Accuracy.xlsx                       # Accuracy data for STL-10 model
